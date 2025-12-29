@@ -47,7 +47,9 @@ https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News (North America) (1080p)
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One (720p)
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One
+https://trn09.bozztv.com/gin-bbcone/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@England",BBC Two
+https://x.canlitvapp.com/u-bbc2/index.m3u8
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD",BBC Scotland (1080p)
+http://92.114.85.72:8000/play/a0mf

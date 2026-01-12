@@ -15,6 +15,8 @@ http://38.250.127.17:9800/play/a05h/index.m3u8?PlaylistM3UCL
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV Noticias 
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes 

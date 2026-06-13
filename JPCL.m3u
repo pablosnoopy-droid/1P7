@@ -3,7 +3,6 @@
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red 
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="-",CARTOON NT HD
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="-",CARTOON NT HD (clone)
@@ -28,23 +27,18 @@ http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0kj&token=tecnotokenplustv230516F
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a02v&token=tecnotokenplustv230516F&f=.m3u8
-
 #EXTINF:-1 group-title="-",HBO2 HD
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="-",History 2
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="-",History Channel HD
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
-
 #EXTINF:-1 group-title="-",Animal Planet HD
 http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
-
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
